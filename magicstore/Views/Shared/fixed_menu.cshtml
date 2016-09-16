@@ -1,0 +1,26 @@
+﻿<link type="text/css" rel="stylesheet" href="../../Content/fixed_menu.css" />
+    <div class="fixed_menu_div">
+            <table style="width:100%; color:#ffffff;">
+            <tr class="fixed_menu_tr">
+                <td class="fixed_menu_td" style="padding: 16px;">
+                <a href="#home" class="fixed_menu_a">ГЛАВНАЯ</a>
+                <a href="#home" class="fixed_menu_a">НОВОСТИ</a>
+                <a href="#home" class="fixed_menu_a">КОНТАКТЫ</a>
+                </td>
+                <td class="fixed_menu_td" style="padding: 16px; text-align:right">    
+                @{
+        if ((bool)Session["Authorization"] == false)
+        {
+            <a class="fixed_menu_a" href="/authorization">ВОЙТИ</a>
+            <a class="fixed_menu_a" href="/registration">РЕГИСТРАЦИЯ</a>
+        }
+        else
+        {
+            magicstore.Models.cl_User User = Session["User"] as magicstore.Models.cl_User;
+            String UserData = User.Surname + " " + User.Name;
+            <a class="fixed_menu_a" href="/personal">@UserData.ToUpper()</a>
+            <a class="fixed_menu_a" href="/authorization/out/@User.UID.ToString()" name="ID">&#10006;</a>
+        }
+        }</td></tr>
+            </table>
+    </div>

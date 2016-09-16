@@ -1,0 +1,87 @@
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\magicstore.dll.config
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\magicstore.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\magicstore.pdb
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Webpages.Deployment.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Webpages.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Webpages.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Webpages.xml
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Webpages.Deployment.xml
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Webpages.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\ru\System.Web.Razor.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\ru\System.Web.Webpages.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\ru\System.Web.Webpages.Deployment.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\ru\System.Web.Webpages.Razor.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\ru\System.Web.Helpers.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\bin\ru\System.Web.Mvc.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\obj\Debug\magicstore.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\obj\Debug\magicstore.dll
+c:\users\user\documents\visual studio 2015\Projects\magicstore\magicstore\obj\Debug\magicstore.pdb
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\csc.exe
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\vbc.exe
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\magicstore.dll.config
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\magicstore.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\magicstore.pdb
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\EntityFramework.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Razor.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Webpages.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\EntityFramework.xml
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Razor.xml
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Webpages.xml
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\obj\Debug\magicstore.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\magicstore\magicstore\obj\Debug\magicstore.dll
+C:\Users\User\Documents\GitHub\magicstore\magicstore\obj\Debug\magicstore.pdb
+C:\Users\User\Documents\GitHub\magicstore\magicstore\bin\GridMvc.dll

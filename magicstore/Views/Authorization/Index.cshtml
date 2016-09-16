@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Войти в систему";
+}
+
+<h2>@ViewBag.Title</h2>
+<form method="post" action="/Authorization/In">
+    <table style="width: 100%;">
+    <tr>
+        <td>
+            Логин
+        </td>
+    </tr>
+    <tr>
+            <td>
+                <input type="text" name="login" required>
+            </td>
+    </tr>
+    <tr>
+            <td>
+                Пароль
+            </td>
+    </tr>
+    <tr>
+            <td>
+                <input type="password" name="password" required>
+            </td>
+     </tr>
+        <tr>
+            <td><button>Войти</button></td>
+        </tr>
+    </table>
+    </form>

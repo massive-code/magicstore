@@ -1,0 +1,37 @@
+﻿@using GridMvc.Html
+@model IEnumerable<magicstore.Models.cl_Table_User>
+    
+<link href="@Url.Content("~/Content/Gridmvc.css")" rel="stylesheet" />
+<link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" />
+<script src="@Url.Content("~/Scripts/jquery-1.9.1.min.js")"></script>
+<script src="@Url.Content("~/Scripts/gridmvc.min.js")"></script>
+
+
+    @if ((Session["User"] as magicstore.Models.cl_User).Permission == "administrator")
+    {
+        @Html.Grid(Model).Columns(columns =>
+   {
+       columns.Add(c => c.Id).Titled("ID").Filterable(true);
+       columns.Add(c => c.Name).Titled("Имя").Filterable(true);
+       columns.Add(c => c.Surname).Titled("Фамилия").Filterable(true);
+       columns.Add(c => c.Login).Titled("Логин").Filterable(false);
+       columns.Add(c => c.Address).Titled("Адрес").Filterable(false);
+       columns.Add(c => c.EMail).Titled("EMail").Filterable(false);
+       columns.Add(c => c.EMailConfirm).Titled("EMail Confirm").Filterable(true);
+       columns.Add(c => c.Permission).Titled("Права").Filterable(true);
+       columns.Add(c => c.Registration).Titled("Регистрация").Filterable(true);
+       columns.Add(c => c.LastIn).Titled("Вход").Filterable(true);
+       columns.Add(c => c.Blocked).Titled("Блокировка").Filterable(true);
+       columns.Add().Encoded(false).Sanitized(false).SetWidth(30).RenderValueAs(o => @Html.ActionLink("Edit", "Edit", new { id = o.Id }));
+   });
+    }
+@if ((Session["User"] as magicstore.Models.cl_User).Permission == "user")
+{
+    @Html.Grid(Model).Columns(columns =>
+{
+    columns.Add(c => c.Id).Titled("ID").Filterable(true);
+    columns.Add(c => c.Name).Titled("Имя").Filterable(true);
+    columns.Add(c => c.Surname).Titled("Фамилия").Filterable(true);
+    columns.Add(c => c.EMail).Titled("EMail").Filterable(false);
+});
+}

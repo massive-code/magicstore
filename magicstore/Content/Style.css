@@ -1,0 +1,39 @@
+﻿body {
+background-color:#293955;
+color:#ffffff;
+margin:0px;
+font-family:'Times New Roman';
+font-size:medium;
+}
+.table{
+    border-collapse:collapse;
+    border-width:0px;
+    text-align:center;
+    font-family:'Times New Roman';
+}
+
+td {
+border:1px solid white;
+}
+button
+{
+    cursor:pointer;
+    box-shadow:none;
+    border-width:0px;
+    border-radius:0px;
+    border-color:white;
+    background-color:#ffffff;
+}
+
+    button:hover {
+    border-width:1px;
+        border-color:#6391e5;
+    }
+
+
+a:link {
+color:#ffffff;
+}
+a:visited {
+color:#ffffff;
+}
